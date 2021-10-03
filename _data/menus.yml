@@ -1,0 +1,20 @@
+- title: Conference program
+  url  : program/conference
+- title: Location
+  url  : location/
+- title: Sponsor
+  url  : sponsor/
+#- title: Relive the conference
+#  url  : program/feeds
+- title: Donate
+  url  : donate/
+- title: About
+  items:
+  - title: About OWASP
+    url  : about
+  - title: Team
+    url  : about/team
+  - title: Code of Conduct
+    url  : about/code-of-conduct
+  - title: Diversity Statement
+    url  : about/diversity-statement
