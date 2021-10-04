@@ -12,9 +12,9 @@ title: The OWASP BeNeLux Program Committee
 * Sebastien Deleersnyder
 * Lieven Desmet
 * David Mathy
-* Thomas Herlea
 * Stella Dineva
-* Adolfo Solero
-* Bart De Win
+* Maxim Baele
 
 # OWASP Luxembourg chapter
+* Yasser Aboukir
+* Dang Vinh Tran
