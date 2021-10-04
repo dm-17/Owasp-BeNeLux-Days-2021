@@ -31,7 +31,9 @@ title: Conference program
 	{% endfor %}
 	</ul>
 {% else %}
-  <p>We're currently in the progress of making the conference program.<br>
-	We will share the information very soon.</p>
+  <p><br>
+     We're currently in the progress of making the conference program.<br>
+     We will share the information very soon.
+  </p>
 {% endif %}
 </div>
