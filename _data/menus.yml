@@ -14,6 +14,8 @@
     url  : about
   - title: Team
     url  : about/team
+  - title: Previous BeNeLux days
+    url  : about/previous-benelux-days
   - title: Code of Conduct
     url  : about/code-of-conduct
   - title: Diversity Statement
