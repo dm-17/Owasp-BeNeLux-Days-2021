@@ -6,9 +6,10 @@ bodyclass: front
 <section class="punch">
 <br><br>
 <h2>News</h2>
-<p>The OWASP BeNeLux days 2021 are currently beeing organised. <br>
-   Mark 25 and 26 November in your agenda and check this website for updates.
-</p>
+{% for news in site.data.news %}
+  <h5>{{news.date}}:</h5>
+  <p>{{news.text}}</p>
+{% endfor %}
 <br>
 <h2>OWASP BeNeLux conference is free, but registration is required!</h2>
 <p>To support the OWASP organisation, consider to become a member, it's only <strong>US$50!</strong> Check out the <a href="https://wiki.owasp.org/index.php/Membership">Membership</a> page to find out more.</p>
