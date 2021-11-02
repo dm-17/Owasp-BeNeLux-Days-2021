@@ -12,14 +12,12 @@ title: Conference program
 	{% for speaker in speakers %}
 		{% if speaker.name %}
 		<li>
-      {% if speaker.image %}
         <a name="{{speaker.name}}">
         <img style="background-image: url(/assets/images/conference/{{speaker.image | default:'owasp_logo.png'}});{{speaker.style}};"></a>
-      {% endif %}
       {% if speaker.title %}
         <h2>{{speaker.title}} by {{speaker.name}}</h2>
       {% else %}
-        <h2>- {{speaker.name}}</h2>
+        <h2>{{speaker.name}}</h2>
       {% endif %}
 
       {% if speaker.feed %}

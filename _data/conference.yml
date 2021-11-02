@@ -4,9 +4,22 @@
   day     :
   time    :
   name    : Pieter de Cremer
-  bio     : 
-  title   : 
-  abstract: 
+  bio     : >-
+            Pieter De Cremer, a long-time security enthusiast, joined Secure Code Warrior as part of an internship in 2015. Over the next two years, he wrote more than 100 rules for Sensei, their flagship IDE security plugin, and was closely involved in the early designs of this tool.<br />
+            After graduating with a Master in Computer Science Engineering at UGent in 2017, he decided to pursue a Ph.D. Backed by a personal Baekeland mandaat from VLAIO he started his research at SCW and UGent, with the aim of contributing to a new era of software security, one that considered developers from the beginning.<br />
+            Over the next four years, he built his vision of collaboration between developers and the security team. He designed, implemented, and evaluated innovative improvements for both the training and tools provided by SCW. During this time, he published three papers and built a portfolio of three patents related to his work.<br />
+            In his spare time, Pieter enjoys hitting the security conference circuit to engage with other enthusiasts around the world, his afternoon coffee ritual, and an Apex Legends battle or two.
+  title   : The paved path methodology&#58; a human-centered approach to software security
+  abstract: >-
+            In this talk, attendees will get an overview of Pieter de Cremer’s paved path methodology, wherein Pieter has built a vision to make software security a shared responsibility between the security team and developers.<br />
+            What does this methodology look like in practice? The security team would not force security testing on developers, but instead gradually build a paved path for developers to follow. The discussed practices in this talk make it easier for developers to produce secure code and fix existing vulnerabilities in a scalable way, without harming their productivity.<br />
+            To support the paved path methodology, better education and tools should be provided that are more human-centered and keep the developer experience in mind. Pieter will teach attendees how to select more role-specific and user-friendly training and tools for developers, backed by his extensive research and subsequent findings.<br />
+            <br />
+            Don’t miss this session if you’d like to know more about:<br />
+            • Why the current approach to software security is not working to reduce vulnerabilities<br />
+            • Why developers should be considered early and often in the SDLC<br />
+            • How a paved security path for developers can create a higher standard of secure code, without compromising speed of delivery<br />
+            • A developer-led approach to selecting and implementing the security tech stack.
   feed    : 
   url     : 
   urltag  : 
@@ -26,9 +39,12 @@
   day     :
   time    :
   name    : Philippe de Ryck
-  bio     : 
-  title   : 
-  abstract: 
+  bio     : >-
+            Philippe De Ryck helps developers protect companies through better web security. His Ph.D. in web security from KU Leuven lies at the basis of his exceptional knowledge of the security landscape. As the founder of Pragmatic Web Security, Philippe delivers security training and security consulting to companies worldwide. His online course platform allows anyone to learn complex security topics at their own pace. Philippe is a Google Developer Expert and an Auth0 Ambassador for his community contributions on the security of web applications and APIs.
+  title   : Securing React with Trusted Types
+  abstract: >-
+            Cross-Site Scripting is game over! We've been hearing this for a while now. Unfortunately, it is still more than relevant in the world of React-based frontends. While React helps a bit, it still leaves too much to developers, aptly illustrated by numerous XSS vulnerabilities discovered in React apps.
+            No more. In this session, we look at Trusted Types, a platform-based defense that will eradicate XSS vulnerabilities in frontends. We investigate how Trusted Types can stop typical React XSS attacks. Additionally, we explore how to configure Trusted Types for your entire application. You will walk away with a solid knowledge of Trusted Types and actionable advice to get started with Trusted Types.
   feed    : 
   url     : 
   urltag  : 
@@ -37,9 +53,12 @@
   day     :
   time    :
   name    : Theo Rigas
-  bio     : 
-  title   : 
-  abstract: 
+  bio     : >-
+            Théo Rigas is a cyber security expert at NVISO, where he helps customers secure their products’ ecosystems on a daily basis. He has performed numerous IoT and embedded security assessments in many sectors, on devices including industrial routers, ISP equipment, medical connected devices, and physical security products. Théo also supports NVISO R&D by doing research in IoT testing methodology and tools. As part of his research activities, he contributes regularly to the OWASP ISVS.
+  title   : A Tour Of OWASP ISVS
+  abstract: >-
+            The OWASP Internet of Things Security Verification Standard (ISVS) is a community effort to establish an open standard of security requirements for Internet of Things (IoT) applications. The requirements provided by the ISVS can be used in many stages during the product development life cycle, including design, development, and testing of IoT applications. After months of gathering feedback and refining the first pre-release candidate, the ISVS is now close to the release of version 1.0.<br />
+            In this talk, we’ll take a tour of the ISVS. We’ll start at the motivation for its creation, and then look at its structure and the rationale behind it. Then, we’ll dive deeper into its chapters and sections, and discuss how they can be used in real-life scenarios to guide IoT developers, integrators, and security testers. Finally, we’ll try to consider the ISVS’s future : the next big milestones, its potential impact in the industry, and how to contribute to that impact. 
   feed    : 
   url     : 
   urltag  : 
