@@ -6,11 +6,11 @@
   level   : Social event
   style   : 
 
-- image   : contrast-security.svg
+- image   : contrast-security.png
   name    : Contrast Security
   url     : https://www.contrastsecurity.com/en-gb/
   level   : Gold
-  style   : background&#58;#000000;
+  style   : 
 
 - image   : micro-focus.png
   name    : Micro Focus
