@@ -1,9 +1,9 @@
 # 26/11/2021
 
-- image   : 
+- image   : pieter-de-cremer.jpg
   day     :
   time    :
-  name    : Pieter de Cremer
+  name    : Pieter De Cremer
   bio     : >-
             Pieter De Cremer, a long-time security enthusiast, joined Secure Code Warrior as part of an internship in 2015. Over the next two years, he wrote more than 100 rules for Sensei, their flagship IDE security plugin, and was closely involved in the early designs of this tool.<br />
             After graduating with a Master in Computer Science Engineering at UGent in 2017, he decided to pursue a Ph.D. Backed by a personal Baekeland mandaat from VLAIO he started his research at SCW and UGent, with the aim of contributing to a new era of software security, one that considered developers from the beginning.<br />
@@ -24,13 +24,20 @@
   url     : 
   urltag  : 
 
-- image   : 
+- image   : edzo-botjes.jpg 
   day     :
   time    :
   name    : Edzo Botjes
-  bio     : 
-  title   : 
-  abstract: 
+  bio     : >-
+            Edzo Botjes is Antifragility Architect at Xebia and in IT since 1991.<br />
+            He published his Master Thesis titled "Defining Antifragility and the Application on Organisation Design" in 2020 as open access under CC BY-SA 4.0 at the Antwerp Management School, and as an IEEE published paper.<br /> 
+            Edzo will be researching the intersection between information security, organisational learning and resilience in the coming years in a PhD track at the Open University. His mission is to keep on sharing and the lessons learned from applying research.
+  title   : Optimize resilience towards antifragility, a secure cloud translation
+  abstract: >-
+            Security is about resilience. React on what happens is always needed to recover. Reacting on what you do not know, the famous unknown unknowns is the holy grail we call antifragile.<br />
+            Edzo will provide a summary of the current body of knowledge which has a practical and theoretical basis. This summary is validated in the domain of organisation design by 30 experts. His summary, the EAAL model, appears to be also applicable not just to organisation design.<br />
+            To keep it concrete we will discuss and see how to apply the EAAL in achieving secure public cloud usage.<br />
+            The ecosystem of people researching and practising on antifragility and resilience is increasing due to effects of CORONA and also by universities adopting this topic. The next few years we are going to see much more on the topic of resilience and the impact on business, IT and security since this is what security is all about.
   feed    : 
   url     : 
   urltag  : 
@@ -38,7 +45,7 @@
 - image   : philippe-de-ryck.png
   day     :
   time    :
-  name    : Philippe de Ryck
+  name    : Philippe De Ryck
   bio     : >-
             Philippe De Ryck helps developers protect companies through better web security. His Ph.D. in web security from KU Leuven lies at the basis of his exceptional knowledge of the security landscape. As the founder of Pragmatic Web Security, Philippe delivers security training and security consulting to companies worldwide. His online course platform allows anyone to learn complex security topics at their own pace. Philippe is a Google Developer Expert and an Auth0 Ambassador for his community contributions on the security of web applications and APIs.
   title   : Securing React with Trusted Types
@@ -58,7 +65,7 @@
   title   : A Tour Of OWASP ISVS
   abstract: >-
             The OWASP Internet of Things Security Verification Standard (ISVS) is a community effort to establish an open standard of security requirements for Internet of Things (IoT) applications. The requirements provided by the ISVS can be used in many stages during the product development life cycle, including design, development, and testing of IoT applications. After months of gathering feedback and refining the first pre-release candidate, the ISVS is now close to the release of version 1.0.<br />
-            In this talk, we’ll take a tour of the ISVS. We’ll start at the motivation for its creation, and then look at its structure and the rationale behind it. Then, we’ll dive deeper into its chapters and sections, and discuss how they can be used in real-life scenarios to guide IoT developers, integrators, and security testers. Finally, we’ll try to consider the ISVS’s future : the next big milestones, its potential impact in the industry, and how to contribute to that impact. 
+            In this talk, we’ll take a tour of the ISVS. We’ll start at the motivation for its creation, and then look at its structure and the rationale behind it. Then, we’ll dive deeper into its chapters and sections, and discuss how they can be used in real-life scenarios to guide IoT developers, integrators, and security testers. Finally, we’ll try to consider the ISVS’s future &#58; the next big milestones, its potential impact in the industry, and how to contribute to that impact. 
   feed    : 
   url     : 
   urltag  : 
@@ -74,14 +81,55 @@
   url     : 
   urltag  : 
 
-- image   : 
+- image   : rob-van-der-veer.png
   day     :
   time    :
   name    : Rob van der Veer
-  bio     : 
-  title   : 
-  abstract: 
+  bio     : >-
+            Rob van der Veer has a 30 year background in building secure software and running software businesses. Cyber security and privacy have been constant themes in his career, from hacking into the British RAF in 1986, to building AI solutions for national security. At the Software Improvement Group, Rob established and leads the security & privacy practice. He is also involved in several standardisation initiatives (e.g. OWASP SAMM, ENISA, IEEE, ISO/IEC, CIP), and co-leads the OWASP integration project, with openCRE.org as key result.
+  title   : Using openCRE.org to master application security
+  abstract: >-
+            The OWASP Integration Standards project recently released openCRE.org&#58; the content linking platform to unite all security standards. It now connects software security topics for Top 10, ASVS, Pro-active controls, Testing guide,  Cheat sheets, CWE, NIST 53 and 63b. Key features of CRE are&#58; interactive browsing of topics, text search and automatic maintenance of the links.<br />
+            This session is to show you how you can benefit from the Common Requirement Enumeration by finding relevant information on subjects quickly&#58; how to build security in, how to test it, how to understand it, how to procure it. And if you are involved in standard or guidelines yourself (eg, an OWASP project)&#58; how you can use CRE to make your work easy to find and to link to the wealth of available information out there, without dead links. Standard makers unite!
   feed    : 
   url     : 
   urltag  : 
 
+- image   : grant-ongers.png
+  day     :
+  time    :
+  name    : Grant Ongers
+  bio     : >-
+            Co-founder of Secure Delivery and current OWASP Global Foundation board member, Grant Ongers (@rewtd), is a firm believer in security enabling delivery not blocking it. Well-known in the international InfoSec community (it's hard to forget the beard!), his 10+ years of experience in Dev, 20 years in Ops and 30 years in Sec (mostly white hat) has made him a firm believer that there's no such thing as DevSecOps - just DevOps done right, and that compliance != security (or the other way around). Alongside his role as CTO within Secure Delivery, Grant provides C-suite advice and guidance on security to FTSE100 enterprises and strategic risk analysis within M&A diligence teams.
+  title   : 100x your AppSec Program
+  abstract: >-
+            Developers outnumber security folks about 100 to 1. They are super smart and they care about the code that they write. Getting developers onboard with your AppSec program is how to scale your ability to secure all that code a hundred times better than we can today. There are a number of OWASP projects we use to help do this both commercially and as part of the work we are doing in the OWASP Open Application Security Curriculum project.
+  feed    :
+  url     :
+  urltag  :
+
+- image   :
+  day     :
+  time    :
+  name    : Giuseppe Trovato
+  bio     : >-
+            Giuseppe has always been fascinated by many aspects of Information Security and chose to focus on software security when he joined Veracode in 2014. He has spent his time building stuff, helping developers with the identification of compensating controls and providing support for threat analysis and modelling, as well as breaking stuff performing penetration tests and playing with reverse engineering. He currently lives in London but he is a proud Sicilian, born on a sunny slope of Mount Etna.
+  title   : Brace for your next Race - Race conditions in Servlets and Controllers
+  abstract: >-
+            Race conditions are not an issue of the past nor a scenario that people can find themself in only when deciding to develop a multithreading architecture. In our day-to-day programming sessions, we probably deal with multithreading more than one may think. What about that simple Controller you wrote with just few lines of code? Could it be leaking customer data?<br />
+            MVC Controllers methods are, by default, executed in a multithreaded environment where it is crucial to understand when a variable will be accessed and how to synchronize access to shared resources. Failing to do so can have an impact on the security of your application and lead to issues that are difficult to reproduce.<br />
+            Here we will demonstrate a race condition on MVC controller and j2EE Servlet as introduction to a live coding session; we will discuss strategies that can be applied to mitigate the issue and conclude with a summary of how these methods can have an impact on the application’s performance and some other possible alternative.
+  feed    :
+  url     :
+  urltag  :
+
+- image   :
+  day     :
+  time    :
+  name    : Glenn ten Cate
+  bio     :
+  title   :
+  abstract:
+  feed    :
+  url     :
+  urltag  :
