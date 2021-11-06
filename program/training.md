@@ -1,5 +1,5 @@
 ---
-title: Conference program
+title: Trainings
 ShowSponsors: true
 ---
 
