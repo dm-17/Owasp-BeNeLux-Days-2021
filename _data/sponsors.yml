@@ -1,0 +1,31 @@
+# 25/11/2021
+
+- image   : secure-code-warrior.svg
+  name    : Secure Code Warrior 
+  url     : https://www.securecodewarrior.com/
+  level   : Social event
+  style   : 
+
+- image   : contrast-security.svg
+  name    : Contrast Security
+  url     : https://www.contrastsecurity.com
+  level   : Gold
+  style   : background&#58;#000000;
+
+- image   : micro-focus.png
+  name    : Micro Focus
+  url     : https://www.microfocus.com/
+  level   : Gold
+  style   :
+
+- image   : secura.png
+  name    : Secura
+  url     : https://www.secura.com/
+  level   : Bronze
+  style   :
+
+- image   : sig.png
+  name    : Software Improvement Group
+  url     : https://www.softwareimprovementgroup.com/
+  level   : Gold
+  style   :
