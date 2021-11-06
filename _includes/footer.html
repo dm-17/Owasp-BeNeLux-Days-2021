@@ -10,7 +10,7 @@
   {% assign socialEventSponsors = site.data.sponsors | where:"level","Social event" | sort: 'name' %}
 
   {% if goldSponsors %}
-    {% for sponsor in goldSponsors" %}
+    {% for sponsor in goldSponsors %}
       <div class="sponsor">
       	<a href="{{ sponsor.url }}"><img src="/assets/images/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }} logo" style="{{ sponsor.style }}"/></a><br />
         {{ sponsor.name }}
@@ -19,7 +19,7 @@
   {% endif %}
 
   {% if silverSponsors %}
-    {% for sponsor in silverSponsors" %}
+    {% for sponsor in silverSponsors %}
       <div class="sponsor">
       	<a href="{{ sponsor.url }}"><img src="/assets/images/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }} logo" style="{{ sponsor.style }}"/></a><br />
         {{ sponsor.name }}
@@ -28,7 +28,7 @@
   {% endif %}
 
   {% if bronzeSponsors %}
-    {% for sponsor in bronzeSponsors" %}
+    {% for sponsor in bronzeSponsors %}
       <div class="sponsor">
       	<a href="{{ sponsor.url }}"><img src="/assets/images/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }} logo" style="{{ sponsor.style }}"/></a><br />
         {{ sponsor.name }}
@@ -37,7 +37,7 @@
   {% endif %}
 
   {% if socialEventSponsors %}
-    {% for sponsor in socialEventSponsors" %}
+    {% for sponsor in socialEventSponsors %}
       <div class="sponsor">
       	<a href="{{ sponsor.url }}"><img src="/assets/images/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }} logo" style="{{ sponsor.style }}"/></a><br />
         {{ sponsor.name }}
