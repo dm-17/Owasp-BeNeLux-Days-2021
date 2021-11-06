@@ -14,54 +14,82 @@
             Implementing software assurance can produce significant benefits for the organisation. However, trying to achieve this without a good framework often yields only marginal and unsustainable improvements. OWASP SAMM (<a href="https://owaspsamm.org/">https://owaspsamm.org/</a>) provides exactly the structured, measurable framework that's needed. It enables you to formulate and implement a strategy for software security tailored to your organisation's risk profile.<br />
             <br />
             This one-day training is organised as a mix of presentations and interactive workshops. Our goal is for participants to get an in-depth view of, and practical feel for, the OWASP SAMM model. The session is organised in three parts&#58;<br />
-            • First, we present an overview of the model and review the similarities and differences with other models. The five Business Functions - Governance, Design, Implementation, Verification, and Operations - are explained. We address the various constituent elements (e.g., metrics), review representative usage scenarios for the model, and defining an assessment's scope.<br />
-            • The majority of our day will be spent reviewing the Security Practices comprising each Business Function, with an emphasis on assessing your organisation's maturity. Each Practice's treatment will include a hands-on segment, providing you an opportunity to apply SAMM to your organisation (or one you have worked for). We will assess representative Activities across all SAMM Practices, discussing our results and concerns in the group. This will give participants a good indication of their organisations’ maturity in software assurance. In the same effort, we will define a target model for your organisation and identify the most important challenges in getting there.<br />
-            • The final part of the training will be dedicated to specific questions or challenges that you are facing about secure development in your organisation. In this group discussion, experiences will be shared among participants to address these questions.<br />
+            <ul>
+            <li>First, we present an overview of the model and review the similarities and differences with other models. The five Business Functions - Governance, Design, Implementation, Verification, and Operations - are explained. We address the various constituent elements (e.g., metrics), review representative usage scenarios for the model, and defining an assessment's scope.</li>
+            <li>The majority of our day will be spent reviewing the Security Practices comprising each Business Function, with an emphasis on assessing your organisation's maturity. Each Practice's treatment will include a hands-on segment, providing you an opportunity to apply SAMM to your organisation (or one you have worked for). We will assess representative Activities across all SAMM Practices, discussing our results and concerns in the group. This will give participants a good indication of their organisations’ maturity in software assurance. In the same effort, we will define a target model for your organisation and identify the most important challenges in getting there.</li>
+            <li>The final part of the training will be dedicated to specific questions or challenges that you are facing about secure development in your organisation. In this group discussion, experiences will be shared among participants to address these questions.</li>
+            </ul>
             If you've been struggling to launch a secure software initiative in your organisation, this training should provide you with the necessary foundations and ideas to do so.<br />
             <br />
             SAMM training outline<br />
-            • Introductions and Class Overview<br />
-            • The "Application Security Problem"<br />
-            • Software Development Lifecycle (SDLC) Overview<br />
-            • SAMM - Vision, History, Structure<br />
-            • SAMM as an Assessment Tool<br />
-            • Establishing Assessment Scope<br />
-            • Methodology - Assessment and Roadmapping<br />
-            • Assessing Governance<br />
-                Strategy & Metrics<br />
-                Policy & Compliance<br />
-                Education & Guidance<br />
-            • Assessing Design<br />
-                Threat Assessment<br />
-                Security Requirements<br />
-                Security Architecture<br />
-            • Assessing Implementation<br />
-                Secure Build<br />
-                Secure Deployment<br />
-                Defect Management<br />
-            • Assessing Verification<br />
-                Architecture Assessment<br />
-                Requirements-driven Testing<br />
-                Security Testing<br />
-            • Assessing Operations<br />
-                Incident Management<br />
-                Environment Management<br />
-                Operational Management<br />
-            • Setting Improvement Targets<br />
-            • OWASP SAMM Tools<br />
-                Assessment Toolkit<br />
-                SAMMwise<br />
-                SAMM Benchmark Project<br />
-                Integration with Other OWASP Projects & Tools<br />
-            • SAMM Best Practices<br />
-                Choosing the Right Starting Points<br />
-                Monitoring and Metrics<br />
-                Achieving Security by Default<br />
-                Critical Success Factors<br />
-            • Wrap-up<br />
-                Conclusions<br />
-                Looking Forward<br />
-                Getting Involved
+            <ul>
+            <li>Introductions and Class Overview</li>
+            <li>The "Application Security Problem"</li>
+            <li>Software Development Lifecycle (SDLC) Overview</li>
+            <li>SAMM - Vision, History, Structure</li>
+            <li>SAMM as an Assessment Tool</li>
+            <li>Establishing Assessment Scope</li>
+            <li>Methodology - Assessment and Roadmapping</li>
+            <li>Assessing Governance
+              <ul>
+                  <li>Strategy & Metrics</li>
+                  <li>Policy & Compliance</li>
+                  <li>Education & Guidance</li>
+              </ul>
+            </li>
+            <li>Assessing Design
+              <ul>
+                  <li>Threat Assessment</li>
+                  <li>Security Requirements</li>
+                  <li>Security Architecture</li>
+              </ul>
+            </li>
+            <li>Assessing Implementation
+              <ul>
+                  <li>Secure Build</li>
+                  <li>Secure Deployment</li>
+                  <li>Defect Management</li>
+              </ul>
+            </li>
+            <li>Assessing Verification
+              <ul>
+                  <li>Architecture Assessment</li>
+                  <li>Requirements-driven Testing</li>
+                  <li>Security Testing</li>
+              </ul>
+            </li>
+            <li>Assessing Operations
+              <ul>
+                  <li>Incident Management</li>
+                  <li>Environment Management</li>
+                  <li>Operational Management</li>
+              </ul>
+            </li>
+            <li>Setting Improvement Targets</li>
+            <li>OWASP SAMM Tools
+              <ul>
+                  <li>Assessment Toolkit</li>
+                  <li>SAMMwise</li>
+                  <li>SAMM Benchmark Project</li>
+                  <li>Integration with Other OWASP Projects & Tools</li>
+              </ul>
+            </li>
+            <li>SAMM Best Practices
+              <ul>
+                  <li>Choosing the Right Starting Points</li>
+                  <li>Monitoring and Metrics</li>
+                  <li>Achieving Security by Default</li>
+                  <li>Critical Success Factors</li>
+              </ul>
+            </li>
+            <li>Wrap-up
+              <ul>
+                <li>Conclusions</li>
+                <li>Looking Forward</li>
+                <li>Getting Involved</li>
+              </ul>
+            </li>
+            </ul>
   feed    : 
   url     : 
   urltag  : 

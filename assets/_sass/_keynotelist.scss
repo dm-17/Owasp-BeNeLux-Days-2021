@@ -61,6 +61,19 @@ div.keynote-full {
 		padding-bottom:40px;
 		list-style-type: none !important;
 		clear: both;
+		ul {
+			li {
+				padding-left: 0px;
+				padding-bottom: 0px;
+				list-style-type: disc !important;
+				ul {
+					padding-bottom: 0px;
+					li {
+						list-style-type: circle !important;
+					}
+				}
+			}
+		}
 	}
 
 	img {

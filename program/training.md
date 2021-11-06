@@ -9,7 +9,7 @@ ShowSponsors: true
 	<h1>Trainings on Thursday the 25th of November:</h1>
 	<br />
 	<ul>
-	{% assign trainings = site.data.training %}
+	{% assign trainings = site.data.training | sort: 'name' %}
 	{% for training in trainings %}
 		{% if training.name %}
 		<li>
