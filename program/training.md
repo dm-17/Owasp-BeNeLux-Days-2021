@@ -1,6 +1,5 @@
 ---
 title: Trainings
-ShowSponsors: true
 ---
 
 <div class="keynote-full">
