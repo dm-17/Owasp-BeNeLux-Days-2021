@@ -94,13 +94,48 @@
   url     : 
   urltag  : 
 
-- image   : 
+- image   : glenn-ten-cate.jpg
   day     :
   time    :
   name    : Glenn ten Cate
-  bio     : 
-  title   : OWASP SKF
-  abstract: 
+  bio     : >-
+            As a coder, hacker, speaker, trainer and security chapter leader employed at ING Belgium Glenn has over 15 years experience in the field of security.<br />
+            One of the founders of defensive development security trainings dedicated to helping you build and maintain secure software and also speaking at multiple other security conferences in the world.<br />
+            <br />
+            Not only does Glenn train developers, he and his brother Riccardo also donated an entire knowledge framework solely dedicated to help developers make their code secure by design.<br />
+            <br />
+            See&#58;<br />
+            SKF (Security knowledge framework) <a href="https://www.securityknowledgeframework.org">https://www.securityknowledgeframework.org</a>
+  title   : SKF Workshop - Offensive and Defensive crash course using SKF Labs
+  abstract: >-
+            Practice-changing impact, long lasting security knowledge and skills -- are the expected outcomes of this new-school webapp security training. This is a training with minimum lectures and all focused on hands-on exercises. We start off with some understanding of secure development and the secure coding principles. Then we do basic hacking challenges and move gradually to the advanced topics, but after that we do exercises that are about fixing vulnerable code. The attendees will have after this course a vast set of actionable knowledge and practise to be used straight away.<br /> 
+            <br />
+            Below is the main agenda overview that will be used as a structure but we will, based on the audience, select other topics of interest that we will do on this training day.<br />
+            The full list of labs we 'can' do is found here: <a href="https://github.com/blabla1337/skf-labs">https://github.com/blabla1337/skf-labs</a><br />
+            <br />
+            <b>SKF Training outline</b><br />
+            <br />
+            Introduction to vulnerabilities<br />
+            Intro to secure coding<br />
+            OWASP ASVS topics, an introduction to the areas to protect<br />
+            How a properly designed infrastructure architecture should be built<br />
+            Intro to practical secure development<br />
+            Code security<br />
+            Server-side defense<br />
+            Input validation vs encoding<br />
+            Common server-side vulnerabilities and their defense<br />
+            <ul>
+              <li>Injections&#58; SQLi, XML injections, JSON, XPath, XSS, cookie injection, open redirection, http header injection</li>
+              <li>Path traversal, XXE, RFI, Insecure file upload, Code execution</li>
+              <li>Insecure direct object reference</li>
+            </ul>
+            Common client-side vulnerabilities and their defense<br />
+            <ul>
+              <li>XSS (types, impact, causes, defenses, other html injections, BeEF)</li>
+              <li>CSRF, Clickjacking, Same-origin policy, CORS</li>
+            </ul>
+            And many more! Join us and don't miss this opportunity to learn offensive & defensive practical hands-on experience.<br />
+            You only need to bring your laptop and internet access to follow this training.
   feed    : 
   url     : 
   urltag  : 

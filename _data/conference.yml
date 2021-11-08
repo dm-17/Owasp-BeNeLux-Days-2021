@@ -125,13 +125,27 @@
   url     :
   urltag  :
 
-- image   :
+- image   : glenn-ten-cate.jpg
   day     :
   time    :
   name    : Glenn ten Cate
-  bio     :
-  title   :
-  abstract:
+  bio     : >-
+            As a coder, hacker, speaker, trainer and security chapter leader employed at ING Belgium Glenn has over 15 years experience in the field of security.<br />
+            One of the founders of defensive development security trainings dedicated to helping you build and maintain secure software and also speaking at multiple other security conferences in the world.<br />
+            <br />
+            Not only does Glenn train developers, he and his brother Riccardo also donated an entire knowledge framework solely dedicated to help developers make their code secure by design.<br />
+            <br />
+            See&#58;<br />
+            SKF (Security knowledge framework) <a href="https://www.securityknowledgeframework.org">https://www.securityknowledgeframework.org</a>
+  title   : OWASP-SKF Learning Platform - There is no right or wrong, only fun and boring
+  abstract: >-
+            During our work as penetration testers we found that there are a lot of vulnerabilities being introduced in applications that could have been prevented in an early stage of development.<br />
+            <br />
+            We can see the latest trend in integrating security tooling into CI/CD pipelines. However, security tooling integrated in your security pipe-lines will not cover the whole attack surface. This is because the tooling can never understand the full context of the applications functions and logic. On the other hand, resources in the form of manual verification can often be scarce and expensive.<br />
+            <br />
+            Where do we find the right balance between security test automation and manual verification? Even more importantly, how do we train the developers to understand the metrics and make security part of their process and culture? This could be achieved by setting up an (S)SDLC, but what does a good (S)SDLC consist of?<br />
+            <br />
+            This talk will guide everybody willing to take the maturity of their security in software development to a higher level.
   feed    :
   url     :
   urltag  :
