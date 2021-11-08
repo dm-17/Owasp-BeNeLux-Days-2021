@@ -8,6 +8,11 @@
   {% assign bronzeSponsors = site.data.sponsors | where:"level","Bronze" | sort: 'name' %}
   {% assign socialEventSponsors = site.data.sponsors | where:"level","Social event" | sort: 'name' %}
 
+  <div class="sponsor">
+    <a href="https://www.howest.be/"><img src="/assets/images/sponsors/howest.png" alt="Howest logo"/></a><br />
+      Howest Hogeschool
+  </div>
+
   {% if goldSponsors %}
     {% for sponsor in goldSponsors %}
       <div class="sponsor">
