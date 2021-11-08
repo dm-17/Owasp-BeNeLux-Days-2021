@@ -12,7 +12,7 @@ title: Trainings
 	{% for training in trainings %}
 		{% if training.name %}
 		<li>
-        <a name="{{training.name}}">
+        <a name="{{training.name | replace: " ","-"}}">
         <img style="background-image: url(/assets/images/training/{{training.image | default:'owasp_logo.png'}});{{training.style}};"></a>
       {% if training.title %}
         <h2>{{training.title}} by {{training.name}}</h2>
