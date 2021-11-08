@@ -8,7 +8,7 @@ title: Conference program
 	<h1>Confirmed speakers for Friday the 26th of November:</h1>
 	<br />
 	<ul>
-	{% assign speakers = site.data.conference | sort: 'name' %}
+	{% assign speakers = site.data.conference | sort: 'time' %}
 	{% for speaker in speakers %}
 		{% if speaker.name %}
 		<li>
@@ -20,11 +20,11 @@ title: Conference program
         <h2>{{speaker.name}}</h2>
       {% endif %}
 
+      <p><em>{{speaker.time}}</em>
       {% if speaker.feed %}
-        <p>
-          <a href="/program/feeds#{{speaker.name}}">Check out the streaming feed!</a>
-        </p>
+          - <a href="/program/feeds#{{speaker.name}}">Check out the streaming feed!</a>
       {% endif %}
+      </p>
 
       {% if speaker.abstract %}
         <h4>Abstract:</h4>
