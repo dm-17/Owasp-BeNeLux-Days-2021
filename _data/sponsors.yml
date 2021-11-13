@@ -29,3 +29,21 @@
   url     : https://www.softwareimprovementgroup.com/
   level   : Gold
   style   :
+
+- image   : davinsi-labs.png
+  name    : Davinsi Labs
+  url     : https://davinsi.com/
+  level   : Silver
+  style   :
+
+- image   : toreon.png
+  name    : Toreon
+  url     : https://www.toreon.com/
+  level   : Silver
+  style   :
+
+- image   : securify.svg
+  name    : Securify
+  url     : https://www.securify.nl/
+  level   : Silver
+  style   :
