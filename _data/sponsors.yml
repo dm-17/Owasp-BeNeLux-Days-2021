@@ -47,3 +47,9 @@
   url     : https://www.securify.nl/
   level   : Silver
   style   :
+
+- image   : vest.png
+  name    : Vest
+  url     : https://www.vest.nl/
+  level   : Gold
+  style   : 
