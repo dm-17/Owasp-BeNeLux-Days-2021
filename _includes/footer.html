@@ -10,14 +10,12 @@
 
   <div class="sponsor">
     <a href="https://www.howest.be/"><img src="/assets/images/sponsors/howest.png" alt="Howest logo"/></a><br />
-      Howest Hogeschool
   </div>
 
   {% if goldSponsors %}
     {% for sponsor in goldSponsors %}
       <div class="sponsor">
       	<a href="{{ sponsor.url }}"><img src="/assets/images/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }} logo" style="{{ sponsor.style }}"/></a><br />
-        {{ sponsor.name }}
       </div>
     {% endfor %}
   {% endif %}
@@ -26,7 +24,6 @@
     {% for sponsor in silverSponsors %}
       <div class="sponsor">
       	<a href="{{ sponsor.url }}"><img src="/assets/images/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }} logo" style="{{ sponsor.style }}"/></a><br />
-        {{ sponsor.name }}
       </div>
     {% endfor %}
   {% endif %}
@@ -35,7 +32,6 @@
     {% for sponsor in bronzeSponsors %}
       <div class="sponsor">
       	<a href="{{ sponsor.url }}"><img src="/assets/images/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }} logo" style="{{ sponsor.style }}"/></a><br />
-        {{ sponsor.name }}
       </div>
     {% endfor %}
   {% endif %}
@@ -44,7 +40,6 @@
     {% for sponsor in socialEventSponsors %}
       <div class="sponsor">
       	<a href="{{ sponsor.url }}"><img src="/assets/images/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }} logo" style="{{ sponsor.style }}"/></a><br />
-        {{ sponsor.name }}
       </div>
     {% endfor %}
   {% endif %}
