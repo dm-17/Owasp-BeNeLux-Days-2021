@@ -6,9 +6,11 @@
 
 <section>
 <section class="punch">
+{% if site.data.bannermessage.text %}
 <div align=center>
-<h1 style="color:red;">The BeNeLux days are postponed to April, 2022.</h1>
+<h1 style="{{site.data.bannermessage.style}}">{{site.data.bannermessage.text}}</h1>
 </div>
+{% endif %}
 {{content}}
 </section>
 
