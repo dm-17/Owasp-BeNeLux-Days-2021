@@ -5,7 +5,7 @@ title: Trainings
 <div class="keynote-full">
 
 {% if site.data.training[0].name %}
-	<h1><del>Trainings on Thursday the 25th of November:</del></h1>
+	<h1>Trainings on Thursday the 31st of March:</h1>
 	<br />
 	<ul>
 	{% assign trainings = site.data.training | sort: 'name' %}
