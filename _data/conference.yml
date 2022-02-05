@@ -97,19 +97,6 @@
   url     : 
   urltag  : 
 
-- image   : grant-ongers.png
-  day     :
-  time    : 10:50 - 11:30
-  name    : Grant Ongers
-  bio     : >-
-            Co-founder of Secure Delivery and current OWASP Global Foundation board member, Grant Ongers (@rewtd), is a firm believer in security enabling delivery not blocking it. Well-known in the international InfoSec community (it's hard to forget the beard!), his 10+ years of experience in Dev, 20 years in Ops and 30 years in Sec (mostly white hat) has made him a firm believer that there's no such thing as DevSecOps - just DevOps done right, and that compliance != security (or the other way around). Alongside his role as CTO within Secure Delivery, Grant provides C-suite advice and guidance on security to FTSE100 enterprises and strategic risk analysis within M&A diligence teams.
-  title   : 100x your AppSec Program
-  abstract: >-
-            Developers outnumber security folks about 100 to 1. They are super smart and they care about the code that they write. Getting developers onboard with your AppSec program is how to scale your ability to secure all that code a hundred times better than we can today. There are a number of OWASP projects we use to help do this both commercially and as part of the work we are doing in the OWASP Open Application Security Curriculum project.
-  feed    :
-  url     :
-  urltag  :
-
 - image   : giuseppe-trovato.jpg
   day     :
   time    : 11:30 - 12:10
