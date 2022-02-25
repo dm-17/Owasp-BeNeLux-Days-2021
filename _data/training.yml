@@ -139,3 +139,20 @@
   feed    : 
   url     : 
   urltag  : 
+
+- image   : christian-folini.jpeg
+  day     :
+  time    :
+  name    : Christian Folini
+  bio     : >-
+            Dr. Christian Folini is a Swiss security engineer and open source enthusiast. He brings 15 years of experience with ModSecurity configuration in high security environments, DDoS defense and threat modeling. Christian Folini is the author of the 2nd edition of the ModSecurity Handbook and the best known teacher on the subject. He co-leads the OWASP ModSecurity Core Rule Set project and serves as the program chair of the “Swiss Cyber Storm” conference.
+  title   : 
+  abstract: >-
+            This is a one day introduction course to ModSecurity and the OWASP Core Rule Set (CRS).<br />
+            CRS is a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls. The CRS aims to protect web applications from a wide range of attacks, including the OWASP Top Ten, with a minimum of false alerts.<br />
+            The course will introduce students to the setup, the integration and basic operation of the ModSecurity / Core Rule Set Web Application Firewall (WAF). It will cover negative and positive rule writing, an overview over the CRS rules and several tools that help you tune away false positives that are a huge pain when running a tight WAF.<br />
+            Students will receive a 190 pages PDF set to walk through the course again at home and the scripts used throughout the course.<br />
+            The teaching will be based on Ubuntu / Apache, but can easily be adopted to other platforms.
+  feed    : 
+  url     : 
+  urltag  : 
