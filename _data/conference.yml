@@ -2,7 +2,7 @@
 
 - image   : pieter-de-cremer.jpg
   day     :
-  time    : 09:15 - 09:55
+  time    : 09:15 - 10:00
   name    : Pieter De Cremer
   bio     : >-
             Pieter De Cremer, a long-time security enthusiast, joined Secure Code Warrior as part of an internship in 2015. Over the next two years, he wrote more than 100 rules for Sensei, their flagship IDE security plugin, and was closely involved in the early designs of this tool.<br />
@@ -26,7 +26,7 @@
 
 - image   : edzo-botjes.jpg 
   day     :
-  time    : 09:55 - 10:35
+  time    : 10:00 - 10:45
   name    : Edzo Botjes
   bio     : >-
             Edzo Botjes is Antifragility Architect at Xebia and in IT since 1991.<br />
@@ -44,7 +44,7 @@
 
 - image   : philippe-de-ryck.png
   day     :
-  time    : 15:55 - 16:35
+  time    : 16:00 - 16:45
   name    : Philippe De Ryck
   bio     : >-
             Philippe De Ryck helps developers protect companies through better web security. His Ph.D. in web security from KU Leuven lies at the basis of his exceptional knowledge of the security landscape. As the founder of Pragmatic Web Security, Philippe delivers security training and security consulting to companies worldwide. His online course platform allows anyone to learn complex security topics at their own pace. Philippe is a Google Developer Expert and an Auth0 Ambassador for his community contributions on the security of web applications and APIs.
@@ -58,7 +58,7 @@
 
 - image   : theo-rigas.png
   day     :
-  time    : 15:15 - 15:55
+  time    : 15:15 - 16:00
   name    : Theo Rigas
   bio     : >-
             Théo Rigas is a cyber security expert at NVISO, where he helps customers secure their products’ ecosystems on a daily basis. He has performed numerous IoT and embedded security assessments in many sectors, on devices including industrial routers, ISP equipment, medical connected devices, and physical security products. Théo also supports NVISO R&D by doing research in IoT testing methodology and tools. As part of his research activities, he contributes regularly to the OWASP ISVS.
@@ -72,7 +72,7 @@
 
 - image   : rob-van-der-veer.png
   day     :
-  time    : 14:20 - 15:00
+  time    : 14:15 - 15:00
   name    : Rob van der Veer
   bio     : >-
             Rob van der Veer has a 30 year background in building secure software and running software businesses. Cyber security and privacy have been constant themes in his career, from hacking into the British RAF in 1986, to building AI solutions for national security. At the Software Improvement Group, Rob established and leads the security & privacy practice. He is also involved in several standardisation initiatives (e.g. OWASP SAMM, ENISA, IEEE, ISO/IEC, CIP), and co-leads the OWASP integration project, with openCRE.org as key result.
@@ -86,7 +86,7 @@
 
 - image   : giuseppe-trovato.jpg
   day     :
-  time    : 11:30 - 12:10
+  time    : 11:00 - 11:45
   name    : Giuseppe Trovato
   bio     : >-
             Giuseppe has always been fascinated by many aspects of Information Security and chose to focus on software security when he joined Veracode in 2014. He has spent his time building stuff, helping developers with the identification of compensating controls and providing support for threat analysis and modelling, as well as breaking stuff performing penetration tests and playing with reverse engineering. He currently lives in London but he is a proud Sicilian, born on a sunny slope of Mount Etna.
@@ -101,7 +101,7 @@
 
 - image   : glenn-ten-cate.jpg
   day     :
-  time    : 13:00 - 13:40
+  time    : 11:45 - 12:30
   name    : Glenn ten Cate
   bio     : >-
             As a coder, hacker, speaker, trainer and security chapter leader employed at ING Belgium Glenn has over 15 years experience in the field of security.<br />
@@ -137,11 +137,26 @@
 
 - image   :
   day     :
-  time    : 16:35 - 16:50
+  time    : 16:45 - 17:00
   name    : Martin Knobloch
   bio     :
   title   : Closing
   abstract:
+  feed    :
+  url     :
+  urltag  :
+
+- image   : christian-folini.jpeg
+  day     :
+  time    : 13:30 - 14:15
+  name    : Christian Folini
+  bio     : >-
+            Dr. Christian Folini is a Swiss security engineer and open source enthusiast. He brings 15 years of experience with ModSecurity configuration in high security environments, DDoS defense and threat modeling. Christian Folini is the author of the 2nd edition of the ModSecurity Handbook and the best known teacher on the subject. He co-leads the OWASP ModSecurity Core Rule Set project and serves as the program chair of the “Swiss Cyber Storm” conference.
+  title   : Medieval Castles and Modern Servers. Making good use of the castle defense metaphor
+  abstract: >-
+            We have been building castles and fortifications for thousands of years. Many of them were never breached. IT security, on the other hand, is a very young discipline where defense mechanisms have not really stood the test of time and breaches are happening every day.<br />
+            Looking at historical defense techniques and fortress architectures can therefore serve as an inspiration for strong IT security architectures. This presentation looks at agile and flexible defenses, layered security and whitelisting. None of these concepts are entirely new to the IT security industry. But implementations usually stop with the buzzword or at the network level. This talk brings evidence for the effectiveness of the concepts across the centuries and hopes to help them achieve a breakthrough on all levels.<br />
+            Furthermore, the talk educates the audience about medieval castles and how the metaphor can be put to use when explaining complicated IT security concepts to non-technical audiences. Again, the metaphor is not new, but people are usually only scratching the surface when they talk of medieval castles and modern servers.
   feed    :
   url     :
   urltag  :

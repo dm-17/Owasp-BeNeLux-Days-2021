@@ -1,3 +1,60 @@
+- date : 16-03-2022
+  text : There won't be any Covid Safe check during the event. So, the only ticket you need is the event ticket from <a href="https://owasp-benelux-days-spring-2022.eventbrite.com">https://owasp-benelux-days-spring-2022.eventbrite.com</a>.
+- date : 16-03-2022
+  text : >-
+         Check the conference program at <a href="/program/conference/">https://www.owaspbenelux.eu/program/conference</a>.
+         <table>	
+           <tr>
+             <td>09:00 - 09:15</td>
+             <td>Sebastien Deleersnyder</td>
+             <td><a href="/program/conference/#Sebastien-Deleersnyder">Introduction and OWASP update</a></td>
+           </tr>
+           <tr>
+             <td>09:15 - 10:00</td>
+             <td>Pieter De Cremer</td>
+             <td><a href="/program/conference/#Pieter-De-Cremer">The paved path methodology&#58; a human-centered approach to software security</a></td>
+           </tr>
+           <tr>
+             <td>10:00 - 10:45</td>
+             <td>Edzo Botjes</td>
+             <td><a href="/program/conference/#Edzo-Botjes">Optimize resilience towards antifragility, a secure cloud translation</a></td>
+           </tr>
+           <tr>
+             <td>11:00 - 11:45</td>
+             <td>Giuseppe Trovato</td>
+             <td><a href="/program/conference/#Giuseppe-Trovato">Brace for your next Race - Race conditions in Servlets and Controllers</a></td>
+           </tr>
+           <tr>
+             <td>11:45 - 12:30</td>
+             <td>Glenn ten Cate</td>
+             <td><a href="/program/conference/#Glenn-ten-Cate">OWASP-SKF Learning Platform - There is no right or wrong, only fun and boring</a></td>
+           </tr>
+           <tr>
+             <td>13:30 - 14:15</td>
+             <td>Christian Folini</td>
+             <td><a href="/program/conference/#Christian-Folini">Medieval Castles and Modern Servers. Making good use of the castle defense metaphor</a></td>
+           </tr>
+           <tr>
+             <td>14:15 - 15:00</td>
+             <td>Rob van der Veer</td>
+             <td><a href="/program/conference/#Rob-van-der-Veer">Using openCRE.org to master application security</a></td>
+           </tr>
+           <tr>
+             <td>15:15 - 16:00</td>
+             <td>Theo Rigas</td>
+             <td><a href="/program/conference/#Theo-Rigas">A Tour Of OWASP ISVS</a></td>
+           </tr>
+           <tr>
+             <td>16:00 - 16:45</td>
+             <td>Philippe De Ryck</td>
+             <td><a href="/program/conference/#Philippe-De-Ryck">Securing React with Trusted Types</a></td>
+           </tr>
+           <tr>
+             <td>16:45 - 17:00</td>
+             <td>Martin Knobloch</td>
+             <td><a href="/program/conference/#Martin-Knobloch">Closing</a></td>
+           </tr>
+         </table>
 - date : 25-02-2022
   text : Registration is open&#58; <a href="https://owasp-benelux-days-spring-2022.eventbrite.com">https://owasp-benelux-days-spring-2022.eventbrite.com</a>.
 - date : 29-01-2022
