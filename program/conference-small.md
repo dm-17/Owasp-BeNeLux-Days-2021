@@ -11,7 +11,7 @@ title: Conference program
 	  <tr>
 	    <td>{{speaker.time}}</td>
 	    <td>{{speaker.name}}</td>
-	    <td><a href="/program/conference/#{{speaker.name | replace: " ","-"}}">{{speaker.title}}</a></td>
+	    <td><a href="/program/conference#{{speaker.name | replace: " ","-"}}">{{speaker.title}}</a></td>
 	  </tr>
 	{% endfor %}
 	</table>
