@@ -1,16 +1,10 @@
 # 25/11/2021
 
-- image   : secure-code-warrior.svg
-  name    : Secure Code Warrior 
-  url     : https://www.securecodewarrior.com/
-  level   : Social event
-  style   : 
-
 - image   : contrast-security.png
   name    : Contrast Security
   url     : https://www.contrastsecurity.com/en-gb/
   level   : Gold
-  style   : 
+  style   :
 
 - image   : micro-focus.png
   name    : Micro Focus
@@ -52,4 +46,4 @@
   name    : Vest
   url     : https://www.vest.nl/
   level   : Gold
-  style   : 
+  style   :
