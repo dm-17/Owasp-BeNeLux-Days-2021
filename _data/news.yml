@@ -1,11 +1,16 @@
+- date : 28-03-2022
+  text : >-
+         Trainings registration is now closed.<br>
+         <br>
+         <h2>You can still register for the <a href="/program/conference">conference day</a> on 01/04/2022. Hurry up!</h2><br>
 - date : 18-03-2022
   text : >-
-         Don't forget to register to one of our special trainings, taking place on 31/03/2022:<br>
+         Don't forget to <a href="https://owasp-benelux-days-spring-2022.eventbrite.com">register</a> to one of our special trainings, taking place on 31/03/2022:<br>
          <ul>
            <li><a href="/program/training#Christian-Folini">ModSecurity and the OWASP Core Rule Set (CRS) by Christian Folini</a>
            <li><a href="/program/training#Glenn-ten-Cate">SKF Workshop - Offensive and Defensive crash course using SKF Labs by Glenn ten Cate</a>
            <li><a href="/program/training#Sebastien-Deleersnyder">OWASP SAMM by Sebastien Deleersnyder</a>
-         </ul>             
+         </ul>
 - date : 16-03-2022
   text : There won't be any Covid Safe check during the event. So, the only ticket you need is the event ticket from <a href="https://owasp-benelux-days-spring-2022.eventbrite.com">https://owasp-benelux-days-spring-2022.eventbrite.com</a>.
 - date : 16-03-2022
