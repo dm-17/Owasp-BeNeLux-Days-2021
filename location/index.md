@@ -17,6 +17,7 @@ Kortrijk station is less than 1.5 km from the campus. You can walk to the campus
 <li>By car<br />
 You can park at Howest car park 4, at the end in the Graaf Karel de Goedelaan:<br />
 <img src="/assets/images/parking_map.png" alt="Parking map" width=600/>
+</ul>
 <br />
 <h3>Nearby hotels:<h3>
 - <a href="https://www.parkhotel.be/index-nl.aspx?r=true">Park hotel</a><br />
