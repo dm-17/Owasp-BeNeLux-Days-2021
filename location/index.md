@@ -13,10 +13,10 @@ Belgium.<br />
 You can reach us...
 <ul>
 <li>By train<br />
-Kortrijk station is less than 1.5 km from the campus. You can walk to the campus.<br />
+Kortrijk station is less than 1.5 km from the campus. You can walk to the campus.<li>
 <li>By car<br />
 You can park at Howest car park 4, at the end in the Graaf Karel de Goedelaan:<br />
-<img src="/assets/images/parking_map.png" alt="Parking map" width=600/>
+<img src="/assets/images/parking_map.png" alt="Parking map" width="600" /></li>
 </ul>
 <br />
 <h3>Nearby hotels:<h3>
