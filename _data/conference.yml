@@ -20,17 +20,17 @@
             • Why developers should be considered early and often in the SDLC<br />
             • How a paved security path for developers can create a higher standard of secure code, without compromising speed of delivery<br />
             • A developer-led approach to selecting and implementing the security tech stack.
-  feed    : 
-  url     : 
-  urltag  : 
+  feed    :
+  url     :
+  urltag  :
 
-- image   : edzo-botjes.jpg 
+- image   : edzo-botjes.jpg
   day     :
   time    : 10:00 - 10:45
   name    : Edzo Botjes
   bio     : >-
             Edzo Botjes is Antifragility Architect at Xebia and in IT since 1991.<br />
-            He published his Master Thesis titled "Defining Antifragility and the Application on Organisation Design" in 2020 as open access under CC BY-SA 4.0 at the Antwerp Management School, and as an IEEE published paper.<br /> 
+            He published his Master Thesis titled "Defining Antifragility and the Application on Organisation Design" in 2020 as open access under CC BY-SA 4.0 at the Antwerp Management School, and as an IEEE published paper.<br />
             Edzo will be researching the intersection between information security, organisational learning and resilience in the coming years in a PhD track at the Open University. His mission is to keep on sharing and the lessons learned from applying research.
   title   : Optimize resilience towards antifragility, a secure cloud translation
   abstract: >-
@@ -38,9 +38,9 @@
             Edzo will provide a summary of the current body of knowledge which has a practical and theoretical basis. This summary is validated in the domain of organisation design by 30 experts. His summary, the EAAL model, appears to be also applicable not just to organisation design.<br />
             To keep it concrete we will discuss and see how to apply the EAAL in achieving secure public cloud usage.<br />
             The ecosystem of people researching and practising on antifragility and resilience is increasing due to effects of CORONA and also by universities adopting this topic. The next few years we are going to see much more on the topic of resilience and the impact on business, IT and security since this is what security is all about.
-  feed    : 
-  url     : 
-  urltag  : 
+  feed    : https://www.youtube.com/watch?v=FSFBU0cJ1dU
+  url     :
+  urltag  :
 
 - image   : philippe-de-ryck.png
   day     :
@@ -52,9 +52,9 @@
   abstract: >-
             Cross-Site Scripting is game over! We've been hearing this for a while now. Unfortunately, it is still more than relevant in the world of React-based frontends. While React helps a bit, it still leaves too much to developers, aptly illustrated by numerous XSS vulnerabilities discovered in React apps.
             No more. In this session, we look at Trusted Types, a platform-based defense that will eradicate XSS vulnerabilities in frontends. We investigate how Trusted Types can stop typical React XSS attacks. Additionally, we explore how to configure Trusted Types for your entire application. You will walk away with a solid knowledge of Trusted Types and actionable advice to get started with Trusted Types.
-  feed    : 
-  url     : 
-  urltag  : 
+  feed    : https://www.youtube.com/watch?v=Hw8Tq3jq2Xc
+  url     :
+  urltag  :
 
 - image   : theo-rigas.png
   day     :
@@ -66,9 +66,9 @@
   abstract: >-
             The OWASP Internet of Things Security Verification Standard (ISVS) is a community effort to establish an open standard of security requirements for Internet of Things (IoT) applications. The requirements provided by the ISVS can be used in many stages during the product development life cycle, including design, development, and testing of IoT applications. After months of gathering feedback and refining the first pre-release candidate, the ISVS is now close to the release of version 1.0.<br />
             In this talk, we’ll take a tour of the ISVS. We’ll start at the motivation for its creation, and then look at its structure and the rationale behind it. Then, we’ll dive deeper into its chapters and sections, and discuss how they can be used in real-life scenarios to guide IoT developers, integrators, and security testers. Finally, we’ll try to consider the ISVS’s future &#58; the next big milestones, its potential impact in the industry, and how to contribute to that impact. 
-  feed    : 
-  url     : 
-  urltag  : 
+  feed    : https://www.youtube.com/watch?v=8PsO3xlI2UE
+  url     :
+  urltag  :
 
 - image   : rob-van-der-veer.png
   day     :
@@ -80,9 +80,9 @@
   abstract: >-
             The OWASP Integration Standards project recently released openCRE.org&#58; the content linking platform to unite all security standards. It now connects software security topics for Top 10, ASVS, Pro-active controls, Testing guide,  Cheat sheets, CWE, NIST 53 and 63b. Key features of CRE are&#58; interactive browsing of topics, text search and automatic maintenance of the links.<br />
             This session is to show you how you can benefit from the Common Requirement Enumeration by finding relevant information on subjects quickly&#58; how to build security in, how to test it, how to understand it, how to procure it. And if you are involved in standard or guidelines yourself (eg, an OWASP project)&#58; how you can use CRE to make your work easy to find and to link to the wealth of available information out there, without dead links. Standard makers unite!
-  feed    : 
-  url     : 
-  urltag  : 
+  feed    : https://www.youtube.com/watch?v=7knF14t0Svg
+  url     :
+  urltag  :
 
 - image   : giuseppe-trovato.jpg
   day     :
@@ -95,7 +95,7 @@
             Race conditions are not an issue of the past nor a scenario that people can find themself in only when deciding to develop a multithreading architecture. In our day-to-day programming sessions, we probably deal with multithreading more than one may think. What about that simple Controller you wrote with just few lines of code? Could it be leaking customer data?<br />
             MVC Controllers methods are, by default, executed in a multithreaded environment where it is crucial to understand when a variable will be accessed and how to synchronize access to shared resources. Failing to do so can have an impact on the security of your application and lead to issues that are difficult to reproduce.<br />
             Here we will demonstrate a race condition on MVC controller and j2EE Servlet as introduction to a live coding session; we will discuss strategies that can be applied to mitigate the issue and conclude with a summary of how these methods can have an impact on the application’s performance and some other possible alternative.
-  feed    :
+  feed    : https://www.youtube.com/watch?v=Q70Vdzg7nX8
   url     :
   urltag  :
 
@@ -120,7 +120,7 @@
             Where do we find the right balance between security test automation and manual verification? Even more importantly, how do we train the developers to understand the metrics and make security part of their process and culture? This could be achieved by setting up an (S)SDLC, but what does a good (S)SDLC consist of?<br />
             <br />
             This talk will guide everybody willing to take the maturity of their security in software development to a higher level.
-  feed    :
+  feed    : https://www.youtube.com/watch?v=AJ2sWqspmxs
   url     :
   urltag  :
 
@@ -157,7 +157,6 @@
             We have been building castles and fortifications for thousands of years. Many of them were never breached. IT security, on the other hand, is a very young discipline where defense mechanisms have not really stood the test of time and breaches are happening every day.<br />
             Looking at historical defense techniques and fortress architectures can therefore serve as an inspiration for strong IT security architectures. This presentation looks at agile and flexible defenses, layered security and whitelisting. None of these concepts are entirely new to the IT security industry. But implementations usually stop with the buzzword or at the network level. This talk brings evidence for the effectiveness of the concepts across the centuries and hopes to help them achieve a breakthrough on all levels.<br />
             Furthermore, the talk educates the audience about medieval castles and how the metaphor can be put to use when explaining complicated IT security concepts to non-technical audiences. Again, the metaphor is not new, but people are usually only scratching the surface when they talk of medieval castles and modern servers.
-  feed    :
+  feed    : https://www.youtube.com/watch?v=L5y8iPSEPHk
   url     :
   urltag  :
-
